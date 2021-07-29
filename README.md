@@ -1,2 +1,2 @@
 # CLI-Chess
-Comand Line Chess Game
+Fully functional Comand Line Chess written in Java
