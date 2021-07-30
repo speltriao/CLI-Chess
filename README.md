@@ -2,7 +2,7 @@
 ### Fully functional Comand Line Chess written in Java.
 
 
-<i> To run: </i>
+<p><b> To run: </b></p>
 ```
 java -jar CLIChess.jar
 ```
