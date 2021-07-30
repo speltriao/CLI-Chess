@@ -11,7 +11,7 @@ java -jar CLIChess.jar
 <p> -> Include all moves (including <i>En Passant</i>, Castling and Promotion)</p>
 <p> -> Shows all possible moves for the selected piece</p>
 <p> -> Multiplatform</p>
-
+<br>
 ### Example:
 ![](chess.gif)
 
