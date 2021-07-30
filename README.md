@@ -3,6 +3,7 @@
 
 
 <p><b> To run: </b></p>
+
 ```
 java -jar CLIChess.jar
 ```
